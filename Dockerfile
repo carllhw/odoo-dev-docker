@@ -1,4 +1,4 @@
-FROM carllhw/odoo-env:8.0
+FROM carllhw/odoo-env:9.0
 
 LABEL maintainer="Haiwei Liu <carllhw@gmail.com>"
 

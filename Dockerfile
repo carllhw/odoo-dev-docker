@@ -1,5 +1,4 @@
-FROM carllhw/odoo-env:10.0
-
+FROM carllhw/odoo-env:13.0
 LABEL maintainer="Haiwei Liu <carllhw@gmail.com>"
 
 COPY ./requirements.txt /usr/src/odoo/
